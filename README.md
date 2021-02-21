@@ -58,7 +58,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 
 https://github.com/NelsonTejeda/Flixster/blob/master/Flixter%20part%202.gif
-<img src="https://github.com/NelsonTejeda/Flixster/blob/master/Flixter%20part%202.gif" width=250><br>
+<img src="https://github.com/NelsonTejeda/Flixster/blob/master/Flixter%20part%202.gif" width=''><br>
 
 ### Notes
 
